@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Phillip
+## 👋 Hi, I'm Phillip Kawere
 
 I'm a software engineer passionate about using data science and tech to solve real-world problems across Africa.
 
